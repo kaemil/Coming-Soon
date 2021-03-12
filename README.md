@@ -11,4 +11,3 @@ This project was created to practice flexbox layout module.
 - CSS3
 - SCSS
 - BEM methodology
-
